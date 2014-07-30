@@ -1,6 +1,7 @@
 vfarcy.github.io
 ================
 
-www.farcy.me
+This is a backup of www.farcy.me
+
 
 
